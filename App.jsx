@@ -34,9 +34,7 @@ export default function App() {
         4. To accomplish these tasks, you *only* need to write code below these comments; you 
             *don't* need to change or add anything above them or in a different file! 
             
-        1) start game
-            - on click start game timer count down in second. When game start playSong()
-            - When clicked on object playClick(). 
+
 */
     React.useEffect(()=>{
         let interval
